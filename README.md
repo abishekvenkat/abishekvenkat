@@ -6,4 +6,4 @@
 🌱 Learning: React and Python  
 ⚡ Fun Fact: I love mangoes.
 
-<p align=center>Check out projects under my <a href=https://github.com/abishekvenkat?tab=repositories >repos!</a></p>
+<p align=center>Check out projects under my <a href=https://github.com/abishekvenkat?tab=repositories >repos</a>!</p>
