@@ -4,6 +4,6 @@
 <p align=right>📍 Bengaluru, India</p>
 
 🌱 Learning: React and Python  
-⚡ Fun Fact: I love mangoes.
+⚡ Fun Fact: I love mangoes, football and monospace fonts.
 
 <p align=center>Check out projects under my <a href=https://github.com/abishekvenkat?tab=repositories >repos</a>!🕵️</p>
