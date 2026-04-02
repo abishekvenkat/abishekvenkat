@@ -12,7 +12,7 @@
  - [ghostmark](https://github.com/abishekvenkat/ghostmark) (cross-device, no app, no database bookmark manager)
  - [drrdrr](https://github.com/abishekvenkat/drrdrr) (no app, lightweight, terminal-to-phone notification service)
  - [rakugaki](https://github.com/abishekvenkat/rakugaki) (markdown-based notes PWA with mermaid support)
- - [my personal audio/video transcriber](https://github.com/abishekvenkat/aaudiototext) (audio/video files transcribed with timestamps and summarized, locally)
+ - [my personal audio/video transcriber](https://github.com/abishekvenkat/aaudiototext) (audio/video files transcribed with timestamps, and summarized - locally)
  
 
 🎮 i also reinvent games:
