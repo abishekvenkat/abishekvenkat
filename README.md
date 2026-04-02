@@ -23,10 +23,10 @@
 
 ### some things about me
 
-⚽ i really love mangoes, football, f1 and pokémon
-📜 i might be in a relationship with monospace fonts
-🎯 i'm all about that work smarter, not harder life
-☕ probably drinking coffee while writing this
+ - ⚽ i really love mangoes, football, f1 and pokémon
+ - 📜 i might be in a relationship with monospace fonts
+ - 🎯 all about that work smarter, not harder life
+ - ☕ i'm probably drinking coffee while you're reading this
 
 ---
 
