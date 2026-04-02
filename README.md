@@ -9,8 +9,13 @@
 ### what i build
 
 💡 utilities that solve small annoyances. file converters, bookmark managers, diff tools, calculators. if it saves me 30 seconds, it's worth a weekend.
+ - [ghostmark](https://github.com/abishekvenkat/ghostmark) (cross-device, no app, no database bookmark manager)
+ - [drrdrr](https://github.com/abishekvenkat/drrdrr) (no app, lightweight, terminal-to-phone notification service)
+ - [rakugaki](https://github.com/abishekvenkat/rakugaki) (markdown-based notes PWA with mermaid support)
+ - [my personal audio/video transcriber](https://github.com/abishekvenkat/aaudiototext) (audio/video files transcribed with timestamps and summarized, locally)
+ 
 
-🎮 i also make games:
+🎮 i also reinvent games:
  - [morseman](https://github.com/abishekvenkat/morseman) (hangman in morse code)
  - [terminal-snake](https://github.com/abishekvenkat/terminal-snake)
  - [pick-a-potty](https://github.com/abishekvenkat/pick-a-potty)
